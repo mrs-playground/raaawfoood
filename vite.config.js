@@ -4,6 +4,6 @@ import tailwindcss from 'tailwindcss'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/raaawfoood/',
+  base: process.env.NODE_ENV === 'production' ? '/raaawfoood/' : '/',
   plugins: [vue(), tailwindcss()],
 })
