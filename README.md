@@ -1,14 +1,16 @@
 # RAAAWF000D
 
-This is a simple page for recipes
-
-Vue 3 + Tailwind playground.
+This is a basic project with recipes (Vue 3 playground).
 
 ## Installation
 
+```bash
 nvm use 16
 yarn dev
+yarn build
+npm run deploy
+```
 
 ## Version 1.0
 
-[ ] Create a github page https://dev.to/shashannkbawa/deploying-vite-app-to-github-pages-3ane
+[x] [Deploying Vite Project to GitHub Pages](https://medium.com/@aishwaryaparab1/deploying-vite-deploying-vite-app-to-github-pages-166fff40ffd3)
