@@ -6,7 +6,7 @@ import Article from '../components/Article.vue';
 import PageNotFound from '../views/PageNotFound.vue';
 
 const router = createRouter({
-  history: createWebHistory(),
+  history: createWebHistory('/raaawfoood/'),
   routes: [
     {
       path: '/',
