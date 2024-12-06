@@ -1,0 +1,28 @@
+{
+  "meals": [
+    {
+      "id": 1,
+      "title": "Petit Dejeuner"
+    },
+    {
+      "id": 2,
+      "title": "Repas"
+    },
+    {
+      "id": 3,
+      "title": "Dîner"
+    },
+    {
+      "id": 4,
+      "title": "Goûter"
+    },
+    {
+      "id": 5,
+      "title": "Boissons"
+    },
+    {
+      "id": 6,
+      "title": "Spécial Sport"
+    }
+  ]
+}

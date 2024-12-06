@@ -1,0 +1,56 @@
+{
+  "ingredients": [
+    {
+      "id": 1,
+      "title": "Courgette"
+    },
+    {
+      "id": 2,
+      "title": "Orzo"
+    },
+    {
+      "id": 3,
+      "title": "Brocoli"
+    },
+    {
+      "id": 4,
+      "title": "Gnocchi"
+    },
+    {
+      "id": 5,
+      "title": "Oeufs"
+    },
+    {
+      "id": 6,
+      "title": "Pain"
+    },
+    {
+      "id": 7,
+      "title": "Feta"
+    },
+    {
+      "id": 8,
+      "title": "Burrata"
+    },
+    {
+      "id": 9,
+      "title": "Pois chiches"
+    },
+    {
+      "id": 10,
+      "title": "Patate douce"
+    },
+    {
+      "id": 11,
+      "title": "Poireaux"
+    },
+    {
+      "id": 12,
+      "title": "Gingembre"
+    },
+    {
+      "id": 13,
+      "title": "Chocolat"
+    }
+  ]
+}

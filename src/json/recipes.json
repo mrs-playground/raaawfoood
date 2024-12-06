@@ -1,0 +1,343 @@
+{
+  "objects": [
+    {
+      "id": 1,
+      "title": "Nouilles Asie Pot",
+      "meals": ["Dîner", "Déjeuner"],
+      "ingredients": [
+        {
+          "name": "Nouilles",
+          "proportion": ""
+        },
+        {
+          "name": "Sauce soja",
+          "proportion": ""
+        },
+        {
+          "name": "Légumes",
+          "proportion": ""
+        }
+      ],
+      "steps": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Pellentesque vehicula, libero a consequat tincidunt, nunc ligula cursus purus."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Gâteau au chocolat & patates douces",
+      "meals": ["Dîner", "Déjeuner"],
+      "ingredients": [
+        {
+          "name": "Oeufs",
+          "proportion": "4"
+        },
+        {
+          "name": "Patate douce",
+          "proportion": "340 g"
+        },
+        {
+          "name": "Fécule de maïs",
+          "proportion": "20 g"
+        },
+        {
+          "name": "Sucre de canne",
+          "proportion": "100 g"
+        },
+        {
+          "name": "Chocolat",
+          "proportion": "150 g"
+        },
+        {
+          "name": "Cacao en poudre",
+          "proportion": "2 c à s"
+        },
+        {
+          "name": "Beurre",
+          "proportion": "80 g"
+        },
+        {
+          "name": "Sel",
+          "proportion": ""
+        }
+      ],
+      "steps": [
+        "Épluchez les patates douces et taillez-les en petits dés (300 g net). Mettez-les dans un poêlon, couvrez largement d’eau et portez à ébullition. Comptez 15 min. de cuisson.",
+        "Pendant ce temps, tapissez un moule de 20 cm de diamètre de papier cuisson. Coupez le beurre en petits dés et mettez-les dans un saladier, avec les callets.",
+        "Préchauffez le four à 160 °C. Cassez les œufs dans un grand saladier, ajoutez le sel et le sucre. Fouettez 5 min. à grande vitesse, jusqu’à ce que l’ensemble devienne mousseux et triple de volume. Ajoutez la fécule de maïs et le cacao, en les tamisant. Mélangez doucement au fouet à main.",
+        "Les patates douces étant cuites, égouttez-les et mélangez-les avec le beurre et le chocolat. Laissez reposer 2 min. Mixez jusqu’à obtention d’un mélange homogène. Incorporez-le dans les œufs battus, en mélangeant avec une spatule souple. Versez dans le moule et faites cuire 40 min. au four.",
+        "Laissez refroidir dans le moule. Démoulez et dégustez à température ambiante, éventuellement saupoudré de chocolat râpé."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Milkshake Mangue & Pudding de Chia",
+      "meals": ["Boissons"],
+      "ingredients": [
+        {
+          "name": "Mangue",
+          "proportion": ""
+        },
+        {
+          "name": "Graine de chia",
+          "proportion": ""
+        },
+        {
+          "name": "Lait de coco",
+          "proportion": ""
+        },
+        {
+          "name": "Citron vert",
+          "proportion": ""
+        }
+      ],
+      "steps": [
+        "La veille, mélangez les graines de chia dans le lait de coco.",
+        "Couvrez le récipient avec du film plastique et conservez au réfrigérateur.",
+        "Le lendemain, pelez et découpez la chair d'une mangue en petits cubes.",
+        "Mixez dans un blender la chair de l'autre mangue avec le jus de citron vert et le sirop d'agave jusqu'à obtenir un coulis bien lisse.",
+        "Versez le coulis de mangue dans des verrines.",
+        "Recouvrez avec la préparation chia-lait de coco bien raffermie.",
+        "Placez les cubes de mangue fraîche sur le dessus du mélange.",
+        "Parsemez de zeste râpé de citron vert.",
+        "Conservez au frais pendant 2 heures minimum avant le service.",
+        "Dégustez bien frais."
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Steaks de chou-fleur & purée de haricots blancs",
+      "meals": ["Goûter", "Déjeuner"],
+      "ingredients": [
+        {
+          "name": "Brocolis",
+          "proportion": ""
+        },
+        {
+          "name": "Chou-fleur",
+          "proportion": ""
+        },
+        {
+          "name": "Haricots blancs",
+          "proportion": ""
+        }
+      ],
+      "steps": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Vestibulum nec dui vitae orci interdum sodales."
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Tarte tatin aux légumes d'été",
+      "meals": ["Goûter", "Déjeuner"],
+      "ingredients": [
+        {
+          "name": "Oeufs",
+          "proportion": ""
+        },
+        {
+          "name": "Légumes d'été",
+          "proportion": ""
+        },
+        {
+          "name": "Sucre",
+          "proportion": ""
+        },
+        {
+          "name": "Pâte brisée",
+          "proportion": ""
+        }
+      ],
+      "steps": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Mauris tempor magna ut quam feugiat condimentum."
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Croque Monsieur Pain Brocolis",
+      "meals": ["Goûter", "Déjeuner", "Repas"],
+      "ingredients": [
+        {
+          "name": "Pain",
+          "proportion": ""
+        },
+        {
+          "name": "Brocolis",
+          "proportion": ""
+        },
+        {
+          "name": "Huile",
+          "proportion": ""
+        },
+        {
+          "name": "Oeufs",
+          "proportion": ""
+        }
+      ],
+      "steps": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Fusce euismod dolor ut orci auctor, vel maximus eros sollicitudin."
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Orzo feta",
+      "meals": ["Goûter", "Déjeuner"],
+      "ingredients": [
+        {
+          "name": "Feta",
+          "proportion": ""
+        },
+        {
+          "name": "Orzo",
+          "proportion": ""
+        },
+        {
+          "name": "Herbes",
+          "proportion": ""
+        }
+      ],
+      "steps": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Sed venenatis neque sit amet nunc euismod, in sollicitudin arcu posuere."
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Tarte courgettes burrata",
+      "meals": ["Goûter", "Déjeuner"],
+      "ingredients": [
+        {
+          "name": "farine de blé T45 ou T55",
+          "proportion": "250 g"
+        },
+        {
+          "name": "beurre froid coupé en dés",
+          "proportion": "125 g"
+        },
+        {
+          "name": "sel",
+          "proportion": "3 pincées"
+        },
+        {
+          "name": "oeuf",
+          "proportion": "1"
+        },
+        {
+          "name": "cuillère(s) à soupe d'eau glacée",
+          "proportion": "1"
+        },
+        {
+          "name": "courgettes",
+          "proportion": "400 g"
+        },
+        {
+          "name": "Parmesan",
+          "proportion": "30 g"
+        },
+        {
+          "name": "huile d'olive pimentée",
+          "proportion": ""
+        },
+        {
+          "name": "Burrata",
+          "proportion": "1 de 250 g"
+        },
+        {
+          "name": "sel et poivre",
+          "proportion": ""
+        },
+        {
+          "name": "jaune d'oeuf",
+          "proportion": "1"
+        }
+      ],
+      "steps": [
+        "Préparez la pâte brisée : dans un robot, mélangez la farine et le beurre. Ajoutez le sel et l'œuf et mixez jusqu’à obtenir une pâte friable. Incorporez l’eau glacée et mixez de nouveau pour lier la pâte.",
+        "Formez une boule, enveloppez-la dans un film alimentaire et laissez reposer au réfrigérateur pendant 30 minutes.",
+        "Lavez et coupez les courgettes en rondelles fines. Dans une poêle, faites chauffer un peu d’huile d'olive et faites cuire les courgettes jusqu’à ce qu’elles soient tendres et légèrement dorées. Salez et poivrez.",
+        "Préchauffez le four à 180°C (thermostat 6). Étalez la pâte sur une surface farinée et placez-la dans un moule à tarte. Piquez le fond avec une fourchette.",
+        "Répartissez les courgettes sur la pâte, puis parsemez de parmesan râpé.",
+        "Enfournez la tarte pendant 20 minutes, puis sortez-la du four et laissez-la refroidir.",
+        "Avant de servir, ajoutez la burrata déchirée en morceaux, un peu d’huile d’olive pimentée et un jaune d’œuf pour la touche finale."
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Rouleaux de chou croquants Asie",
+      "meals": ["Goûter", "Déjeuner"],
+      "ingredients": [
+        {
+          "name": "Chou",
+          "proportion": "selon la quantité désirée"
+        },
+        {
+          "name": "Sauce soja",
+          "proportion": "au goût"
+        },
+        {
+          "name": "Gingembre",
+          "proportion": "au goût"
+        }
+      ],
+      "steps": [
+        "Lavez les feuilles de chou et séparez-les soigneusement.",
+        "Dans un bol, mélangez de la sauce soja et un peu de gingembre râpé.",
+        "Trempez chaque feuille de chou dans la sauce et laissez mariner pendant 30 minutes.",
+        "Servez en rouleaux ou dégustez simplement comme une salade."
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Hummus de courgettes",
+      "meals": ["Goûter", "Déjeuner"],
+      "ingredients": [
+        {
+          "name": "Courgette",
+          "proportion": "2 moyennes"
+        },
+        {
+          "name": "Pois chiches",
+          "proportion": "200 g"
+        },
+        {
+          "name": "Tahini",
+          "proportion": "2 c à s"
+        }
+      ],
+      "steps": [
+        "Lavez et coupez les courgettes en morceaux.",
+        "Faites cuire les courgettes et les pois chiches à la vapeur jusqu'à tendreté.",
+        "Mixez le tout avec le tahini jusqu'à obtenir une pâte homogène.",
+        "Ajoutez un peu de sel et de poivre, puis dégustez avec du pain pita ou des légumes frais."
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Scarpaccia",
+      "meals": ["Goûter", "Déjeuner"],
+      "ingredients": [
+        {
+          "name": "Courgette",
+          "proportion": "2 grandes"
+        },
+        {
+          "name": "Œufs",
+          "proportion": "4"
+        },
+        {
+          "name": "Fromage",
+          "proportion": "100 g"
+        }
+      ],
+      "steps": [
+        "Râpez les courgettes et faites-les sauter à la poêle avec un peu d'huile d'olive.",
+        "Dans un bol, battez les œufs et ajoutez le fromage râpé.",
+        "Mélangez les courgettes et l'appareil aux œufs dans un plat allant au four.",
+        "Faites cuire au four à 180°C pendant 20-25 minutes jusqu'à ce que la surface soit dorée."
+      ]
+    }    
+  ]
+}
