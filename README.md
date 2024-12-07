@@ -8,7 +8,7 @@ This is a basic project with recipes (Vue 3 playground).
 nvm use 16
 yarn dev
 yarn build
-npm run deploy
+yarn run deploy
 ```
 
 ## Version 1.0
