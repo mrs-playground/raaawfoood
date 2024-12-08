@@ -2,31 +2,50 @@
   "objects": [
     {
       "id": 1,
-      "title": "Nouilles Asie Pot",
+      "title": "Nouilles Soba aux Légumes & Sauce Cacahuète",
       "meals": ["Dîner", "Déjeuner"],
       "ingredients": [
         {
-          "name": "Nouilles",
-          "proportion": ""
+          "name": "Nouilles soba",
+          "proportion": "200 g"
         },
         {
-          "name": "Sauce soja",
-          "proportion": ""
+          "name": "Poivron jaune",
+          "proportion": "1, coupé en lanières"
         },
         {
-          "name": "Légumes",
-          "proportion": ""
+          "name": "Carotte",
+          "proportion": "1, coupée en julienne"
+        },
+        {
+          "name": "Concombre",
+          "proportion": "1, coupé en lanières"
+        },
+        {
+          "name": "Chou rouge",
+          "proportion": "1 tasse, émincé"
+        },
+        {
+          "name": "Cacahuètes non salées",
+          "proportion": "1/4 tasse, hachées"
+        },
+        {
+          "name": "Coriandre fraîche",
+          "proportion": "Hachée, pour garnir"
         }
       ],
       "steps": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Pellentesque vehicula, libero a consequat tincidunt, nunc ligula cursus purus."
+        "Faites cuire les nouilles soba selon les instructions du paquet. Égouttez, rincez à l'eau froide et réservez.",
+        "Dans un bol, mélangez tous les ingrédients de la sauce cacahuète jusqu'à obtenir une consistance lisse.",
+        "Dans un grand bol, mélangez les nouilles soba avec le poivron, la carotte, le concombre et le chou rouge.",
+        "Ajoutez la sauce cacahuète et mélangez bien pour enrober les nouilles et les légumes.",
+        "Servez froid, garni de cacahuètes hachées et de coriandre fraîche."
       ]
     },
     {
       "id": 2,
       "title": "Gâteau au chocolat & patates douces",
-      "meals": ["Dîner", "Déjeuner"],
+      "meals": ["Goûter"],
       "ingredients": [
         {
           "name": "Oeufs",
@@ -76,7 +95,7 @@
       "ingredients": [
         {
           "name": "Mangue",
-          "proportion": ""
+          "proportion": "1"
         },
         {
           "name": "Graine de chia",
@@ -88,7 +107,7 @@
         },
         {
           "name": "Citron vert",
-          "proportion": ""
+          "proportion": "1"
         }
       ],
       "steps": [
@@ -106,58 +125,110 @@
     },
     {
       "id": 4,
-      "title": "Steaks de chou-fleur & purée de haricots blancs",
-      "meals": ["Goûter", "Déjeuner"],
+      "title": "Steaks de Chou-Fleur & Purée de Haricots Blancs",
+      "meals": ["Déjeuner"],
       "ingredients": [
         {
-          "name": "Brocolis",
+          "name": "Sel",
+          "proportion": ""
+        },
+        {
+          "name": "Poivre",
+          "proportion": ""
+        },
+        {
+          "name": "Huile d'olive",
           "proportion": ""
         },
         {
           "name": "Chou-fleur",
-          "proportion": ""
+          "proportion": "800g"
         },
         {
-          "name": "Haricots blancs",
-          "proportion": ""
+          "name": "Mozzarella râpée",
+          "proportion": "150g"
+        },
+        {
+          "name": "Haricots blancs (cuits)",
+          "proportion": "250g"
+        },
+        {
+          "name": "Citron",
+          "proportion": "1"
+        },
+        {
+          "name": "Oignon",
+          "proportion": "1/2"
+        },
+        {
+          "name": "Amandes",
+          "proportion": "20g"
+        },
+        {
+          "name": "Herbes fraîches (persil, menthe)",
+          "proportion": "15g"
         }
       ],
       "steps": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Vestibulum nec dui vitae orci interdum sodales."
+        "Préchauffer le four à 200 °C, chaleur de voûte et de sole.",
+        "Retirer les feuilles du chou-fleur, le laver et le couper en tranches d'environ 1 à 2 cm d'épaisseur.",
+        "Répartir les steaks de chou-fleur sur une plaque de cuisson, les badigeonner d'huile et répartir le fromage par-dessus. Faire cuire dans le four chaud pendant environ 15-20 minutes jusqu'à ce qu'ils soient dorés et croustillants.",
+        "Laver le citron, râper le zeste et presser le jus.",
+        "Peler l'oignon, le couper en deux et le couper en très petits dés.",
+        "Égoutter les haricots blancs, récupérer un peu de liquide et les réduire en fine purée à l'aide d'un mixeur-plongeur. Ajouter le zeste et le jus de citron, le tahini et les dés d'oignon. Si la purée devient trop ferme, ajouter un peu de l'eau des haricots récupérée jusqu'à ce qu'elle devienne bien crémeuse. Assaisonner avec du sel et du poivre.",
+        "Hacher grossièrement les amandes et les faire griller dans une poêle sans matière grasse.",
+        "Laver les herbes et les hacher finement.",
+        "Répartir la purée de haricots sur les assiettes et y déposer les steaks de chou-fleur. Garnir d'amandes grillées et d'herbes fraîches."
       ]
     },
     {
       "id": 5,
-      "title": "Tarte tatin aux légumes d'été",
-      "meals": ["Goûter", "Déjeuner"],
+      "title": "Tarte Tatin aux Légumes d'Été",
+      "meals": ["Déjeuner"],
       "ingredients": [
         {
-          "name": "Oeufs",
+          "name": "Thym",
           "proportion": ""
         },
         {
-          "name": "Légumes d'été",
+          "name": "Huile d'olive",
           "proportion": ""
         },
         {
-          "name": "Sucre",
-          "proportion": ""
+          "name": "Poivron jaune",
+          "proportion": "1"
+        },
+        {
+          "name": "Aubergine",
+          "proportion": "1"
+        },
+        {
+          "name": "Tomates",
+          "proportion": "3"
+        },
+        {
+          "name": "Courgettes",
+          "proportion": "2"
         },
         {
           "name": "Pâte brisée",
-          "proportion": ""
+          "proportion": "1"
         }
       ],
       "steps": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Mauris tempor magna ut quam feugiat condimentum."
+        "Commencer par faire la pâte brisée et la laisser reposer deux heures au réfrigérateur.",
+        "Couper tous les légumes en petits dés à l'aide d'une mandoline.",
+        "Chauffer l'huile dans une poêle et faire cuire les légumes quelques minutes pour qu'ils soient presque cuits.",
+        "Garnir des empreintes à tartelette avec une cuillère à soupe de légumes.",
+        "Étaler la pâte brisée et découper des cercles de la taille des empreintes à tartelette.",
+        "Recouvrir le mélange de légumes d'un cercle de pâte et cuire à 180°C en surveillant la coloration de la pâte (environ 15 à 20 minutes).",
+        "Laisser refroidir les tartelettes avant de les démouler délicatement."
       ]
     },
     {
       "id": 6,
       "title": "Croque Monsieur Pain Brocolis",
-      "meals": ["Goûter", "Déjeuner", "Repas"],
+      "meals": ["Déjeuner", "Repas"],
       "ingredients": [
         {
           "name": "Pain",
@@ -182,32 +253,56 @@
       ]
     },
     {
-      "id": 8,
-      "title": "Orzo feta",
-      "meals": ["Goûter", "Déjeuner"],
+      "id": 7,
+      "title": "Orzo poulet & feta",
+      "meals": ["Déjeuner"],
       "ingredients": [
         {
-          "name": "Feta",
-          "proportion": ""
+          "name": "Oignon",
+          "proportion": "½ pièce"
+        },
+        {
+          "name": "Gousse d'ail",
+          "proportion": "1"
+        },
+        {
+          "name": "Poivron",
+          "proportion": "½ pièce"
+        },
+        {
+          "name": "Thym citronné frais",
+          "proportion": "2.5g"
         },
         {
           "name": "Orzo",
-          "proportion": ""
+          "proportion": "85g"
         },
         {
-          "name": "Herbes",
-          "proportion": ""
+          "name": "Émincés de poulet aux fines herbes",
+          "proportion": "100g"
+        },
+        {
+          "name": "Tomates cerises de 3 couleurs",
+          "proportion": "150g"
+        },
+        {
+          "name": "Feta",
+          "proportion": "25g"
         }
       ],
       "steps": [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Sed venenatis neque sit amet nunc euismod, in sollicitudin arcu posuere."
+        "Préparez le bouillon pour l'orzo. Hachez l'oignon et écrasez l'ail (ou hachez-le finement). Coupez le poivron pointu en deux dans le sens de la longueur et coupez-le en fines lanières. Détachez les feuilles des brins de thym citron.",
+        "Faites chauffer la moitié de l'huile d'olive dans une casserole et faites-y revenir l'orzo 1 minute à feu moyen. Versez le bouillon sur l'orzo et faites-le cuire à couvert à feu doux 10 à 12 minutes. Remuez régulièrement. Ajoutez de l'eau si l'orzo s'assèche.",
+        "Pendant ce temps, chauffez le reste de l'huile d'olive dans un wok ou une poêle et faites-y revenir l'oignon et l'ail à feu moyen 1 minute. Ajoutez le poulet, le poivron pointu, les tomates cerises et le thym citron et faites-les cuire à couvert 7 à 8 minutes. Salez et poivrez. Remuez régulièrement.",
+        "Pendant ce temps, émiettez la feta.",
+        "Ajoutez le vinaigre de vin blanc au wok (ou poêle) et poursuivez la cuisson sans couvercle encore 1 minute à feu vif. Ajoutez ensuite la moitié du mélange de poulet et légumes à l’orzo, mélangez bien et assaisonnez selon vos envies avec du poivre et du sel.",
+        "Servez l’orzo avec le reste du mélange de poulet et légumes. Garnissez avec la feta."
       ]
     },
     {
-      "id": 9,
+      "id": 8,
       "title": "Tarte courgettes burrata",
-      "meals": ["Goûter", "Déjeuner"],
+      "meals": ["Déjeuner"],
       "ingredients": [
         {
           "name": "farine de blé T45 ou T55",
@@ -265,9 +360,9 @@
       ]
     },
     {
-      "id": 13,
+      "id": 9,
       "title": "Rouleaux de chou croquants Asie",
-      "meals": ["Goûter", "Déjeuner"],
+      "meals": ["Déjeuner"],
       "ingredients": [
         {
           "name": "Chou",
@@ -290,9 +385,9 @@
       ]
     },
     {
-      "id": 14,
-      "title": "Hummus de courgettes",
-      "meals": ["Goûter", "Déjeuner"],
+      "id": 10,
+      "title": "Houmous de courgettes",
+      "meals": ["Déjeuner"],
       "ingredients": [
         {
           "name": "Courgette",
@@ -315,9 +410,9 @@
       ]
     },
     {
-      "id": 7,
+      "id": 11,
       "title": "Scarpaccia",
-      "meals": ["Goûter", "Déjeuner"],
+      "meals": ["Déjeuner"],
       "ingredients": [
         {
           "name": "Courgette",
@@ -338,6 +433,204 @@
         "Mélangez les courgettes et l'appareil aux œufs dans un plat allant au four.",
         "Faites cuire au four à 180°C pendant 20-25 minutes jusqu'à ce que la surface soit dorée."
       ]
-    }    
+    },
+    {
+      "id": 13,
+      "title": "Tamago Kake Gohan",
+      "meals": ["Petit Dejeuner"],
+      "ingredients": [
+        {
+          "name": "Riz japonais",
+          "proportion": "125g"
+        },
+        {
+          "name": "Œuf très frais",
+          "proportion": "1"
+        },
+        {
+          "name": "Jeune oignon",
+          "proportion": "1, émincé finement"
+        },
+        {
+          "name": "Vinaigre de riz",
+          "proportion": "25 ml (optionnel)"
+        },
+        {
+          "name": "Sauce soja",
+          "proportion": "1 trait par bol (optionnel)"
+        },
+        {
+          "name": "Gingembre",
+          "proportion": "Quelques copeaux"
+        }
+      ],
+      "steps": [
+        "Émincez le jeune oignon",
+        "Cuisez le riz",
+        "Disposez une belle quantité de riz très chaud dans un bol par personne, et posez un œuf cru sur le riz.",
+        "Parsemez de jeune oignon émincé, sauce soja, huile de sésame, piment japonais, gomasio, copeaux de bonite séchée, ou kimchi selon vos envies.",
+        "Mélangez avec des baguettes pour ‘crémer’ le riz avec l’œuf sous l’effet de la chaleur. Dégustez immédiatement!"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Toast avocat & Œuf poché",
+      "meals": ["Petit Dejeuner"],
+      "ingredients": [
+        {
+          "name": "Pain complet",
+          "proportion": "1 tranche"
+        },
+        {
+          "name": "Œuf",
+          "proportion": "1"
+        },
+        {
+          "name": "Avocat",
+          "proportion": "1/2"
+        },
+        {
+          "name": "Huile d'olive",
+          "proportion": "1 cuillère à café"
+        },
+        {
+          "name": "Vinaigre",
+          "proportion": "Une pointe"
+        },
+        {
+          "name": "Graines de sésame",
+          "proportion": "Quelques-unes"
+        }
+      ],
+      "steps": [
+        "Mettre la chair du demi avocat dans un bol. Ajouter l'huile d'olive et écraser à l'aide d'une fourchette.",
+        "Casser l'œuf dans un bol et réserver. Mettre de l'eau à bouillir dans une casserole avec une pointe de vinaigre.",
+        "Dans l'eau frémissante, former un tourbillon à l'aide d'une fourchette et verser l'œuf. Laisser cuire 4 minutes. Égoutter et réserver.",
+        "Faire griller la tranche de pain. Y étaler la purée d'avocat et y déposer l'œuf poché.",
+        "Finaliser le tout en parsemant quelques graines de sésame sur le dessus. Ouvrir l'œuf poché en deux, le jaune d'œuf doit être coulant. Bon appétit !"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Muffins Avocat et Groseilles",
+      "meals": ["Goûter"],
+      "ingredients": [
+        {
+          "name": "Avocat",
+          "proportion": "1 bien mûr"
+        },
+        {
+          "name": "Groseilles",
+          "proportion": "125 g"
+        },
+        {
+          "name": "Citron",
+          "proportion": "1/2"
+        },
+        {
+          "name": "Purée d’amande",
+          "proportion": "50 g"
+        },
+        {
+          "name": "Œuf",
+          "proportion": "1"
+        },
+        {
+          "name": "Sucre de canne blond",
+          "proportion": "100 g"
+        },
+        {
+          "name": "Lait ribot",
+          "proportion": "3 cuillères à soupe"
+        },
+        {
+          "name": "Huile de pépins de raisin",
+          "proportion": "2 cuillères à soupe"
+        },
+        {
+          "name": "Farine T55",
+          "proportion": "100 g"
+        },
+        {
+          "name": "Levure chimique",
+          "proportion": "1/2 sachet"
+        },
+        {
+          "name": "Cassonade",
+          "proportion": "3 cuillères à soupe"
+        }
+      ],
+      "steps": [
+        "Préchauffez le four à 190 °C (th. 6-7). Mixez la chair de l’avocat avec le jus du demi-citron, puis ajoutez la purée d’amande et mélangez.",
+        "Dans un saladier, fouettez l’œuf et le sucre de canne jusqu’à ce que le mélange blanchisse. Ajoutez la purée avocat-amande citronnée et mélangez.",
+        "Ajoutez le lait ribot, l’huile et les groseilles, mélangez bien, puis incorporez délicatement la farine et la levure sans trop mélanger.",
+        "Répartissez la préparation dans 8 moules à muffin, saupoudrez de cassonade et enfournez pour 20 minutes."
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Chou-fleur sauce cacahuètes & lait de coco",
+      "meals": ["Déjeuner", "Dîner"],
+      "ingredients": [
+        {
+          "name": "Chou-fleur",
+          "proportion": "1 entier"
+        },
+        {
+          "name": "Yaourt grec",
+          "proportion": "300g"
+        },
+        {
+          "name": "Lait de coco",
+          "proportion": "400g"
+        },
+        {
+          "name": "Beurre de cacahuètes",
+          "proportion": "3 cuillères à soupe"
+        },
+        {
+          "name": "Piment",
+          "proportion": "1/2 cuillère à café"
+        },
+        {
+          "name": "Curcuma",
+          "proportion": "1 cuillère à café"
+        },
+        {
+          "name": "Gousse d’ail",
+          "proportion": "1"
+        },
+        {
+          "name": "Cacahuètes",
+          "proportion": "1 poignée"
+        },
+        {
+          "name": "Feuilles de coriandre fraîche",
+          "proportion": ""
+        },
+        {
+          "name": "Jus de citron",
+          "proportion": ""
+        },
+        {
+          "name": "Sel",
+          "proportion": ""
+        },
+        {
+          "name": "Poivre",
+          "proportion": ""
+        }
+      ],
+      "steps": [
+        "Découper le chou-fleur en petites sommités.",
+        "Dans un saladier, mélanger le lait de coco, le beurre de cacahuètes, le sucre, le curcuma, la gousse d’ail émincée et le piment.",
+        "Ajouter les sommités de chou-fleur et bien mélanger afin de les enrober parfaitement avec ce mélange.",
+        "Verser dans un plat à gratin et enfourner 45 minutes à 180 °C en remuant à mi-cuisson.",
+        "Lorsque le chou-fleur est tendre, répartir le yaourt grec dans un grand plat (ou en assiettes individuelles).",
+        "Déposer les morceaux de chou-fleur, goûter et rectifier l’assaisonnement si nécessaire et arroser avec le filet de citron.",
+        "Parsemer quelques cacahuètes concassées, et ajouter les feuilles de coriandre.",
+        "Déguster aussitôt pour profiter du contraste chaud-froid avec les épices, la coriandre, les cacahuètes et le yaourt."
+      ]
+    }      
   ]
 }

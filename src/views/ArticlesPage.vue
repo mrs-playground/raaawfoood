@@ -35,6 +35,11 @@ export default {
   methods: {
     toggleIngredientPopup() {
       this.isIngredientPopupVisible = !this.isIngredientPopupVisible;
+
+      // Simule un redimensionnement pour forcer le recalcul de Lenis
+      setTimeout(() => {
+        window.dispatchEvent(new Event('resize'));
+      }, 0.5);
     },
     // Recherche par titre
     filterSearch(recipe) {
@@ -83,6 +88,7 @@ export default {
     }
   },
 };
+
 </script>
 
 <template>
