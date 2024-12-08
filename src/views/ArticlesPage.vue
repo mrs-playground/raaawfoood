@@ -32,14 +32,20 @@ export default {
         .filter(this.filterByIngredients);
     },
   },
+  mounted() {
+    this.forceResize();
+  },
+  updated() {
+    this.forceResize();
+  },
   methods: {
-    toggleIngredientPopup() {
-      this.isIngredientPopupVisible = !this.isIngredientPopupVisible;
-
-      // Simule un redimensionnement pour forcer le recalcul de Lenis
+    forceResize() {
       setTimeout(() => {
         window.dispatchEvent(new Event('resize'));
       }, 0.5);
+    },
+    toggleIngredientPopup() {
+      this.isIngredientPopupVisible = !this.isIngredientPopupVisible;
     },
     // Recherche par titre
     filterSearch(recipe) {
